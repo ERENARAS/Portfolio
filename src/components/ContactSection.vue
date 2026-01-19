@@ -250,9 +250,11 @@ const sendEmail = async () => {
       templateId,
       {
         from_name: form.name,
+        name: form.name,
         from_email: form.email,
-        message: form.message,
+        message: `${form.message}\n\n---\nSent by: ${form.name}\nEmail: ${form.email}`,
         to_name: 'Eren Aras',
+        reply_to: form.email,
       },
       publicKey
     )
