@@ -81,7 +81,7 @@
           <v-col cols="12" md="6" class="text-center text-md-right pr-md-12">
             <div class="timeline-marker timeline-marker-right"></div>
             <h4 class="text-primary font-weight-bold text-h6 mb-2">
-              08/2024 - 02/2025
+              07/2024 - 02/2025
             </h4>
             <p class="text-text-dim">Izmir, Turkiye</p>
           </v-col>
@@ -91,7 +91,7 @@
             <v-card class="bento-card glass">
               <v-card-text>
                 <h3 class="text-h5 font-weight-bold mb-2">
-                  Part-Time Full-Stack Developer
+                  Part-Time Full-Stack Developer (Promoted from Intern)
                 </h3>
                 <p class="text-subtitle-1 mb-4 text-grey-lighten-1">
                   Istar Arastirma ve Danismanlik | Izmir, Turkiye
@@ -99,35 +99,6 @@
                 <ul class="text-body-2 text-text-dim timeline-list">
                   <li>Developed the landing page, dashboard, and login screens of the REAP-Radar website using Vue.js, ensuring responsive and optimized performance</li>
                   <li>Collaborated with a 10-15 member team, assisting with backend integration and providing general development support</li>
-                </ul>
-              </v-card-text>
-            </v-card>
-          </v-col>
-        </v-row>
-
-        <!-- Experience Item 4 - Computer Engineering Volunteer Intern -->
-        <v-row class="timeline-item mb-12">
-          <v-col cols="12" md="6" class="text-center text-md-right pr-md-12 order-md-1">
-            <div class="timeline-marker timeline-marker-right"></div>
-            <h4 class="text-primary font-weight-bold text-h6 mb-2">
-              07/2024 - 09/2024
-            </h4>
-            <p class="text-text-dim">Izmir, Turkiye</p>
-          </v-col>
-          
-          <v-col cols="12" md="6" class="pl-md-12 order-md-2">
-            <div class="timeline-marker timeline-marker-left"></div>
-            <v-card class="bento-card glass">
-              <v-card-text>
-                <h3 class="text-h5 font-weight-bold mb-2">
-                  Computer Engineering Volunteer Intern
-                </h3>
-                <p class="text-subtitle-1 mb-4 text-grey-lighten-1">
-                  Istar Arastirma ve Danismanlik | Izmir, Turkiye
-                </p>
-                <ul class="text-body-2 text-text-dim timeline-list">
-                  <li>Supported frontend development with Vue.js and contributed to backend integration tasks</li>
-                  <li>Coordinated with a cross-functional team of 10-15 members to deliver project milestones on time</li>
                 </ul>
               </v-card-text>
             </v-card>
